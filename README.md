@@ -1,7 +1,6 @@
 # Frontend Mentor - Social links profile solution
 
-This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
+This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -12,8 +11,6 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
-
-
 
 ## Overview
 
@@ -27,11 +24,10 @@ Users should be able to:
 
 ![](screenshot.png)
 
-
 ### Links
 
-- Solution URL: [solution URL ](https://your-solution-url.com)
-- Live Site URL: [live site URL ](https://your-live-site-url.com)
+- Solution URL: [solution URL ](https://github.com/Noma7code/social-links-profile-main.git)
+- Live Site URL: [live site URL ](https://social-links-profile-main-theta-six.vercel.app/)
 
 ## My process
 
